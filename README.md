@@ -12,5 +12,5 @@ Click [here](https://diwu.tech/MiniProjects) or project names below to enjoy the
 [TodoListProject](https://diwu.tech/MiniProjects/TodoListProject) - A usable to-do list application with jQuery (02/2019)
 
 ### Back-End Related
-[blogApp](/blogApp) - A blog web application built with Node.js and MongoDB (02/2019)   
-[authDemo](/authDemo) - A demo application with Passport (02/2019)
+[blogApp](https://github.com/brycenycuu/MiniProjects/tree/master/blogApp) - A blog web application built with Node.js and MongoDB (02/2019)   
+[authDemo](https://github.com/brycenycuu/MiniProjects/tree/master/authDemo) - A demo application with Passport (02/2019)
